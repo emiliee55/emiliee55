@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Emilie 👋
 
-<!--
-**emiliee55/emiliee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HEC Lausanne graduate (BSc Management) based in Lausanne, working at the intersection of business and tech.
 
-Here are some ideas to get you started:
+### 🧠 Thinkly – iOS focus app (in progress)
+An iOS app that makes you solve an adaptive-difficulty maths problem before unlocking social media apps.
+Built with **SwiftUI** and **Figma**, using **Claude Code**. (Code is private while the app is in development.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎙️ The AI Apprentice – Hack-Nation Global AI Hackathon 2026
+A voice agent (ElevenLabs) that learns an expert's workflow and coaches new hires through it.
+[Repo](https://github.com/hermangalio/ai-apprentice) · [Live demo](https://apprentice.galio.tech)
+
+📫 [LinkedIn](https://www.linkedin.com/in/emilie-blanco-bose-58a5b9247)
+
